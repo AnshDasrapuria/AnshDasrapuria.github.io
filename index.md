@@ -29,5 +29,10 @@ In the first chart, interactivity is provided via hover tooltips, allowing users
 
 ## View the Data and Notebook
 
+---
+
+## View the Data and Notebook
+
 - [The Data](cleaned_ufo_data.csv)  
-- [The Analysis](code.ipynb)
+- [The Analysis](https://github.com/AnshDasrapuria/AnshDasrapuria.github.io/blob/main/code.ipynb)
+
